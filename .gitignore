@@ -1,4 +1,3 @@
 .vscode
-node_modules
 wget-log
 package-lock.json
