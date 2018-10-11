@@ -1,0 +1,9 @@
+{
+	"name": "bdd-api-test",
+	"default": 
+	{
+		"base_url": "https://api.stackexchange.com/2.2",
+		"key": "test",
+		"access_token": "password"
+	}
+}

@@ -1,0 +1,24 @@
+{
+  "name": "bdd-marketplace-externalshop",
+  "version": "1.0.0",
+  "description": "Web Test Automation project of Marketplace ExternalShop",
+  "main": "protractor.conf.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "protractor": "^5.4.1",
+    "walnutjs": "^1.0.41"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/dafiti/bdd-marketplace-externalshop.git"
+  },
+  "author": "Johnny Henck",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/dafiti/bdd-marketplace-externalshop#readme"
+}
