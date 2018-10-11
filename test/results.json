@@ -9,7 +9,7 @@
         "passed": true
       }
     ],
-    "duration": 108909969
+    "duration": 104911741
   },
   {
     "description": "Get a specific badge",
@@ -30,7 +30,7 @@
         "passed": true
       }
     ],
-    "duration": 1274594567
+    "duration": 1552903727
   },
   {
     "description": "Get a specific answer",
@@ -51,7 +51,7 @@
         "passed": true
       }
     ],
-    "duration": 774355730
+    "duration": 765506759
   },
   {
     "description": "Get forbidden response when no access token is provided",
@@ -81,7 +81,7 @@
         "passed": true
       }
     ],
-    "duration": 1095374460
+    "duration": 1086666604
   },
   {
     "description": "Get error when ID is set with alphanumeric",
@@ -102,7 +102,7 @@
         "passed": true
       }
     ],
-    "duration": 782010987
+    "duration": 1182431362
   },
   {
     "description": "Get posts by ID",
@@ -123,7 +123,7 @@
         "passed": true
       }
     ],
-    "duration": 749798922
+    "duration": 963160574
   },
   {
     "description": "Get posts by ID",
@@ -144,7 +144,7 @@
         "passed": true
       }
     ],
-    "duration": 950060168
+    "duration": 788626764
   },
   {
     "description": "Get posts by ID",
@@ -165,6 +165,6 @@
         "passed": true
       }
     ],
-    "duration": 740219306
+    "duration": 757910271
   }
 ]
